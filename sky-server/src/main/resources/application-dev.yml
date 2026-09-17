@@ -11,3 +11,7 @@ sky:
     access-key-secret: your-access-key-secret
     bucket-name: sky-com-jj
     endpoint: oss-cn-beijing.aliyuncs.com
+
+  wechat:
+    appid: wx5b07adb6028bb614
+    secret: 264adfcfc442c9fcd1a0a2d0a9840463
